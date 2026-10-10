@@ -1,4 +1,4 @@
-![[Pasted image 20261009143417.png]]
+![[intro_info.png]]
 
 # Introduction to Computer Networks — Summary & Interview Questions
 

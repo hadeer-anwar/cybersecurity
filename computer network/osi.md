@@ -1,5 +1,5 @@
 
-![[Pasted image 20261009142628.png]]
+![[osi_info.png]]
 
 # OSI Model — Summary Points & Interview Questions
 
